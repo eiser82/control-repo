@@ -6,8 +6,6 @@ This is an all-in-one repo that is a skeleton to use in a production environment
 
 The idea is that this environment controls all of your environments (dev, qa, production) but also holds the ability to spin up Vagrant VMs to test your code before committing.
 
-NOTE: Internet access is required for this environment
-
 ## Files/Directories
 
 ### Vagrantfile
