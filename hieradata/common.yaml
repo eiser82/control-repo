@@ -3,5 +3,5 @@ classes:
  - 'profile::base'
 
 ntp::servers:
-  - 4.us.pool.ntp.org
-  - 5.us.pool.ntp.org
+  - 3.us.pool.ntp.org
+  - 0.us.pool.ntp.org
