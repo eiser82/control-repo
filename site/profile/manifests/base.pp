@@ -1,3 +1,5 @@
 class profile::base {
-  class { '::ntp': }
+  class { '::ntp':
+    servers => [ '2.us.pool.ntp.org', '3.us.pool.ntp.org']
+  }
 }
